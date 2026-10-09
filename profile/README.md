@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Black to orange gradient banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:FF6B1A&height=140&section=header&text=Viora%20Software&fontColor=FAFAFA&fontSize=44&fontAlignY=38&desc=Software%20built%20for%20real-world%20business&descSize=16&descAlignY=60" />
+<img width="100%" alt="Viorasoft animated banner" src="https://raw.githubusercontent.com/viorasoft/.github/main/profile/Viorasoft_Motion_Preview.gif" />
 
 <p>
   <img alt="Focus: SaaS platforms" src="https://img.shields.io/badge/Focus-SaaS%20Platforms-FF6B1A?style=flat-square" />
@@ -148,8 +148,8 @@ We design and ship the whole stack ourselves: architecture, backend services, da
   <img src="https://api.iconify.design/lucide/link.svg?color=%23FF6B1A" width="19" height="19" alt="" />
   <strong>Connect</strong>
   <br /><br />
-  <a href="https://github.com/viorasoft">
-    <img alt="GitHub: Viora-Software" src="https://img.shields.io/badge/viorasoft-View_Organization-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Viora-Software">
+    <img alt="GitHub: Viora-Software" src="https://img.shields.io/badge/Viora--Software-View_Organization-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/borakitirci">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
