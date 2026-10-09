@@ -148,8 +148,8 @@ We design and ship the whole stack ourselves: architecture, backend services, da
   <img src="https://api.iconify.design/lucide/link.svg?color=%23FF6B1A" width="19" height="19" alt="" />
   <strong>Connect</strong>
   <br /><br />
-  <a href="https://github.com/Viora-Software">
-    <img alt="GitHub: Viora-Software" src="https://img.shields.io/badge/Viora--Software-View_Organization-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/viorasoft">
+    <img alt="GitHub: Viora-Software" src="https://img.shields.io/badge/viorasoft-View_Organization-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/borakitirci">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
